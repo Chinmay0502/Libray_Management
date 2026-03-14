@@ -1,0 +1,42 @@
+{
+    "books": [
+        {
+            "id": "B-OTN21",
+            "title": "Game Of Thrones",
+            "author": "Sarthak",
+            "total_copies": 23,
+            "available_copies": 23,
+            "added_on": "2026-02-18 11:52:55"
+        },
+        {
+            "id": "B-94A6P",
+            "title": "Your Name",
+            "author": "Akarsh",
+            "total_copies": 34,
+            "available_copies": 34,
+            "added_on": "2026-02-18 11:53:27"
+        },
+        {
+            "id": "B-A7TL7",
+            "title": "School Days",
+            "author": "Harish",
+            "total_copies": 67,
+            "available_copies": 67,
+            "added_on": "2026-02-18 12:53:08"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-UOQUM",
+            "name": "Situn",
+            "email": "situn@gmail.com",
+            "borrowed": []
+        },
+        {
+            "id": "M-EK04H",
+            "name": "Ram",
+            "email": "ram@gmail.com",
+            "borrowed": []
+        }
+    ]
+}
